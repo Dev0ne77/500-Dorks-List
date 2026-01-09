@@ -1,0 +1,500 @@
+inurl:php?id=
+inurl:index.php?id=
+inurl:news.php?id=
+inurl:item.php?id=
+inurl:book.php?id=
+inurl:profile.php?id=
+inurl:product.php?id=
+inurl:prod.php?id=
+inurl:products.php?id=
+inurl:catalog.php?id=
+inurl:event.php?id=
+inurl:detail.php?id=
+inurl:details.php?id=
+inurl:article.php?id=
+inurl:articles.php?id=
+inurl:show.php?id=
+inurl:view.php?id=
+inurl:browse.php?id=
+inurl:page.php?id=
+inurl:default.php?id=
+inurl:content.php?id=
+inurl:store.php?id=
+inurl:cart.php?id=
+inurl:load.php?id=
+inurl:display.php?id=
+inurl:home.php?id=
+inurl:gallery.php?id=
+inurl:service.php?id=
+inurl:services.php?id=
+inurl:section.php?id=
+inurl:cat.php?id=
+inurl:category.php?id=
+inurl:catid=
+inurl:pid=
+inurl:itemid=
+inurl:uid=
+inurl:cid=
+inurl:newsid=
+inurl:prodid=
+inurl:articleid=
+inurl:topicid=
+inurl:module= inurl:id=
+inurl:eventid=
+inurl:shop.php?id=
+inurl:memberid=
+inurl:forum.php?id=
+inurl:post.php?id=
+inurl:download.php?id=
+inurl:nth.php?id=
+inurl:report.php?id=
+inurl:board.php?id=
+inurl:thread.php?id=
+inurl:class.php?id=
+inurl:user.php?id=
+inurl:users.php?id=
+inurl:profile.php?id=
+inurl:profiles.php?id=
+inurl:playlist.php?id=
+inurl:music.php?id=
+inurl:song.php?id=
+inurl:video.php?id=
+inurl:movie.php?id=
+inurl:blog.php?id=
+inurl:blogs.php?id=
+inurl:category.php?cid=
+inurl:gallery.php?album=
+inurl:page.php?cid=
+inurl:index.php?page=
+inurl:index.php?pagina=
+inurl:index.php?module=
+inurl:view.php?page=
+inurl:home.php?page=
+inurl:content.php?page=
+inurl:product.php?pid=
+inurl:prod.php?pid=
+inurl:item.php?pid=
+inurl:store.php?item=
+inurl:catalog.php?prod=
+inurl:news.php?story=
+inurl:detail.php?prod=
+inurl:product.php?cid=
+inurl:catalog.php?cid=
+inurl:news.php?cat=
+inurl:article.php?cat=
+inurl:articles.php?cat=
+inurl:index.php?cat=
+inurl:index.php?cid=
+inurl:index.php?id=
+inurl:display.php?pid=
+inurl:load.php?pid=
+inurl:details.php?pid=
+inurl:view.php?pid=
+inurl:show.php?cid=
+inurl:page.php?product=
+inurl:product_detail.php?id=
+inurl:product_info.php?id=
+inurl:event_detail.php?id=
+inurl:event_info.php?id=
+inurl:news_detail.php?id=
+inurl:news_view.php?id=
+intitle:"Index of /config"
+intitle:"Index of /configs"
+intitle:"Index of /backup"
+intitle:"Index of /backups"
+intitle:"Index of /credentials"
+intitle:"Index of /users"
+intitle:"Index of /accounts"
+intitle:"Index of /mail"
+intitle:"Index of /smtp"
+intitle:"Index of /ftp"
+intitle:"Index of /ssh"
+intitle:"Index of /mysql"
+intitle:"Index of /db"
+intitle:"Index of /database"
+intitle:"Index of /webadmin"
+intitle:"Index of /admin"
+intitle:"Index of /panel"
+intitle:"Index of /phpmyadmin"
+intitle:"Index of /phpMyAdmin"
+intitle:"Index of /docker"
+intitle:"Index of /secrets"
+intitle:"Index of /private"
+intitle:"Index of /internal"
+intitle:"Index of /debug"
+intitle:"Index of /test"
+intitle:"Index of /staging"
+intitle:"Index of /deploy"
+filetype:env ".env"
+filetype:env "DB_PASSWORD"
+filetype:env "DB_USER"
+filetype:env "MAIL_HOST"
+filetype:env "MAIL_PASSWORD"
+filetype:env "MAIL_USERNAME"
+filetype:env "SMTP_PASSWORD"
+filetype:env "AWS_SECRET_ACCESS_KEY"
+filetype:xml "db_password"
+filetype:xml "db_user"
+filetype:xml "mysql"
+filetype:xml "backup"
+filetype:xml "credentials"
+filetype:ini "password"
+filetype:ini "db"
+filetype:ini "smtp"
+filetype:ini "ftp"
+filetype:ini "mysql"
+filetype:ini "sql"
+filetype:ini "secret"
+filetype:ini "token"
+filetype:json "password"
+filetype:json "jwt"
+filetype:json "apiKey"
+filetype:json "auth"
+filetype:json "secret"
+filetype:cfg "password"
+filetype:cfg "secret"
+filetype:cfg "key"
+filetype:cfg "config"
+filetype:log "password"
+filetype:log "credentials"
+filetype:log "authtoken"
+filetype:log "smtp"
+filetype:log "mysql"
+"password" ext:txt
+"password" ext:log
+"password" ext:ini
+"password" ext:cfg
+"jwt" ext:json
+"apiKey" ext:json
+"smtp" ext:ini
+"aws_secret" ext:env
+"s3" ext:env
+intext:"DB_PASSWORD="
+intext:"DB_USER="
+intext:"DB_HOST="
+intext:"DB_PORT="
+intext:"AWS_SECRET_ACCESS_KEY="
+intext:"AWS_ACCESS_KEY_ID="
+intext:"MYSQL_PASSWORD="
+intext:"MYSQL_USER="
+intext:"MYSQL_HOST="
+intext:"MAIL_PASSWORD="
+intext:"SMTP_PASSWORD="
+intext:"SMTP_USER="
+intext:"MAIL_HOST="
+intext:"REDIS_HOST="
+intext:"REDIS_PASSWORD="
+intext:"ELASTIC_PASSWORD="
+"phpinfo()" intitle:"phpinfo()"
+"phpinfo()" "PHP Version"
+"DEBUG=True" ext:py
+inurl:git/config
+inurl:.git
+inurl:.svn
+inurl:.hg
+inurl:.bzr
+inurl:.DS_Store
+inurl:composer.lock
+inurl:composer.json
+inurl:package.json
+inurl:yarn.lock
+intitle:"admin login"
+intitle:"administrator login"
+intitle:"admin panel"
+intitle:"admin console"
+intitle:"admin dashboard"
+intitle:"control panel login"
+intitle:"cpanel login"
+intitle:"phpmyadmin" "login"
+intitle:"phpmyadmin" inurl:login
+intitle:"webmin" inurl:login
+intitle:"webadmin" inurl:login
+intitle:"plesk" "login"
+intitle:"directadmin" "login"
+intitle:"login" "root" "admin"
+inurl:admin/login
+inurl:administrator/login
+inurl:adminpanel/login
+inurl:adminpanel.php
+inurl:adminpanel.asp
+inurl:adminpanel.aspx
+inurl:admin_console
+inurl:adminConsole
+inurl:console/login
+inurl:console/index
+inurl:dashboard/login
+inurl:dashboard/admin
+inurl:dashboard.php
+inurl:dashboard.asp
+inurl:dashboard.aspx
+inurl:manage/login
+inurl:management/login
+inurl:manager/login
+inurl:manage/admin
+inurl:admin_area
+inurl:adminarea
+inurl:adminarea/login
+inurl:secure/login
+inurl:secureadmin
+inurl:secure/admin
+inurl:secure/console
+inurl:panel/login
+inurl:panel/admin
+inurl:cp/login
+inurl:cp/admin
+inurl:system/login
+inurl:system_admin
+inurl:sysadmin/login
+inurl:sys-admin/login
+inurl:login.cgi "admin"
+inurl:login.pl "admin"
+inurl:login.php "admin"
+inurl:login.aspx "admin"
+inurl:login.asp "admin"
+inurl:cms/login
+inurl:portal/login
+inurl:manage.php
+inurl:managment/admin
+inurl:staff/login
+inurl:staff/admin
+inurl:internal/login
+inurl:internal/admin
+inurl:internal_dashboard
+inurl:internal_console
+inurl:admincp
+inurl:admincp/login
+inurl:webadmin/login
+inurl:webadmin/admin
+inurl:web-console
+inurl:web-console/login
+inurl:web-console/admin
+inurl:login "admin panel"
+inurl:signin "admin"
+inurl:signin/admin
+inurl:signin.php "admin"
+inurl:signin.aspx "admin"
+inurl:auth/login "admin"
+inurl:auth.php "admin"
+inurl:auth.aspx "admin"
+inurl:authentication/login
+inurl:admin_auth
+inurl:superadmin/login
+inurl:root/login
+inurl:root/admin
+inurl:superuser/login
+inurl:superuser/admin
+"admin" "login" "cpanel"
+"admin" "login" "panel"
+"admin" "login" "console"
+"admin" "login" "dashboard"
+"administrator" "login" "panel"
+"administrator" "signin" "panel"
+"control panel" "login"
+"cms admin" "login"
+"portal admin" "login"
+"secure portal" "login"
+"secure admin" "login"
+"privileged login" "admin"
+"restricted" "admin" "login"
+"restricted portal" "login"
+"access denied" "admin login"
+intitle:"Index of /backup"
+intitle:"Index of /backups"
+intitle:"Index of /db"
+intitle:"Index of /database"
+intitle:"Index of /sqldump"
+intitle:"Index of /dumps"
+intitle:"Index of /dump"
+intitle:"Index of /logs"
+intitle:"Index of /log"
+intitle:"Index of /debug"
+intitle:"Index of /debug/logs"
+intitle:"Index of /reports"
+intitle:"Index of /reports/errors"
+intitle:"Index of /error"
+intitle:"Index of /errors"
+intitle:"Index of /crash"
+intitle:"Index of /credentials"
+intitle:"Index of /Secrets"
+intitle:"Index of /secret"
+intitle:"Index of /secrets"
+intitle:"Index of /config"
+intitle:"Index of /configs"
+intitle:"Index of /configuration"
+intitle:"Index of /private"
+intitle:"Index of /internal"
+intitle:"Index of /secure"
+intitle:"Index of /users"
+intitle:"Index of /accounts"
+intitle:"Index of /mail"
+intitle:"Index of /smtp"
+intitle:"Index of /ftp"
+intitle:"Index of /ssh"
+intitle:"Index of /ssl"
+intitle:"Index of /certs"
+intitle:"Index of /certificates"
+intitle:"Index of /keys"
+intitle:"Index of /payments"
+intitle:"Index of /billing"
+intitle:"Index of /api"
+intitle:"Index of /token"
+intitle:"Index of /jwt"
+intitle:"Index of /auth"
+intitle:"Index of /auth/logs"
+intitle:"Index of /oauth"
+intitle:"Index of /admin"
+intitle:"Index of /panel"
+intitle:"Index of /control"
+intitle:"Index of /cp"
+intitle:"Index of /staging"
+intitle:"Index of /dev"
+intitle:"Index of /development"
+intitle:"Index of /testing"
+intitle:"Index of /test"
+intitle:"Index of /qa"
+intitle:"Index of /preprod"
+intitle:"Index of /prod"
+intitle:"Index of /production"
+intitle:"Index of /docker"
+intitle:"Index of /containers"
+intitle:"Index of /compose"
+intitle:"Index of /k8s"
+intitle:"Index of /helm"
+intitle:"Index of /ansible"
+intitle:"Index of /terraform"
+intitle:"Index of /vault"
+intitle:"Index of /aws"
+intitle:"Index of /gcp"
+intitle:"Index of /azure"
+intitle:"Index of /s3"
+intitle:"Index of /buckets"
+intitle:"Index of /artifacts"
+intitle:"Index of /packages"
+intitle:"Index of /modules"
+intitle:"Index of /lib"
+intitle:"Index of /libs"
+intitle:"Index of /node_modules"
+intitle:"Index of /vendor"
+intitle:"Index of /composer"
+intitle:"Index of /packages"
+intitle:"Index of /build"
+intitle:"Index of /release"
+intitle:"Index of /releases"
+intitle:"Index of /updates"
+intitle:"Index of /patches"
+intitle:"Index of /bin"
+intitle:"Index of /sbin"
+intitle:"Index of /etc"
+intitle:"Index of /opt"
+intitle:"Index of /root"
+intitle:"Index of /home"
+intitle:"Index of /wp-content"
+intitle:"Index of /wp-includes"
+intitle:"Index of /wp-admin"
+intitle:"Index of /joomla"
+intitle:"Index of /drupal"
+intitle:"Index of /magento"
+intitle:"Index of /crm"
+intitle:"Index of /erp"
+intitle:"Index of /source"
+intitle:"Index of /src"
+inurl:"index.php?page="
+inurl:"index.php?file="
+inurl:"index.php?path="
+inurl:"index.php?doc="
+inurl:"index.php?module="
+inurl:"index.php?view="
+inurl:"index.php?inc="
+inurl:"index.php?include="
+inurl:"index.php?load="
+inurl:"page.php?file="
+inurl:"page.php?path="
+inurl:"page.php?module="
+inurl:"page.php?inc="
+inurl:"page.php?include="
+inurl:"load.php?file="
+inurl:"load.php?path="
+inurl:"load.php?view="
+inurl:"load.php?include="
+inurl:"load.php?tpl="
+inurl:"template.php?file="
+inurl:"template.php?tpl="
+inurl:"admin.php?view="
+inurl:"admin.php?file="
+inurl:"admin.php?module="
+inurl:"home.php?page="
+inurl:"home.php?file="
+inurl:"include.php?file="
+inurl:"include.php?page="
+inurl:"view.php?template="
+inurl:"view.php?file="
+inurl:"view.php?module="
+inurl:"module.php?file="
+inurl:"module.php?module="
+inurl:"show.php?file="
+inurl:"show.php?page="
+inurl:"content.php?page="
+inurl:"content.php?view="
+inurl:"content.php?file="
+inurl:"render.php?view="
+inurl:"render.php?file="
+inurl:"render.php?tpl="
+inurl:"component.php?view="
+inurl:"component.php?page="
+inurl:"component.php?file="
+inurl:"component.php?include="
+inurl:"main.php?file="
+inurl:"main.php?view="
+inurl:"main.php?module="
+inurl:"product.php?template="
+inurl:"product.php?module="
+inurl:"router.php?file="
+inurl:"router.php?page="
+inurl:"router.php?module="
+inurl:"action.php?file="
+inurl:"action.php?cmd="
+inurl:"exec.php?cmd="
+inurl:"execute.php?cmd="
+inurl:"shell.php?cmd="
+inurl:"run.php?cmd="
+inurl:"system.php?cmd="
+inurl:"system.php?exec="
+inurl:"app.php?cmd="
+inurl:"do.php?cmd="
+inurl:"cmd.php?cmd="
+inurl:"cmd.php?exec="
+inurl:"upload.php?path="
+inurl:"download.php?file="
+inurl:"download.php?path="
+inurl:"download.php?doc="
+inurl:"fetch.php?file="
+inurl:"fetch.php?path="
+inurl:"open.php?file="
+inurl:"open.php?path="
+inurl:"open.php?doc="
+inurl:"open.php?page="
+inurl:"proxy.php?url="
+inurl:"proxy.php?target="
+inurl:"proxy.php?host="
+inurl:"proxy.php?redirect="
+inurl:"redirect.php?url="
+inurl:"redirect.php?target="
+inurl:"login.php?redirect="
+inurl:"auth.php?redirect="
+inurl:"template=" "php://"
+inurl:"file=" "php://"
+inurl:"path=" "php://"
+inurl:"inc=" "php://"
+inurl:"load=" "php://"
+inurl:"tpl=" "php://"
+inurl:"eval(" ext:php
+inurl:"assert(" ext:php
+inurl:"include(" ext:php
+inurl:"require(" ext:php
+inurl:"require_once(" ext:php
+inurl:"preg_replace(" ext:php
+inurl:"system(" ext:php
+inurl:"passthru(" ext:php
+inurl:"shell_exec(" ext:php
+inurl:"exec(" ext:php
+intitle:"Index of" "nginx.conf"
