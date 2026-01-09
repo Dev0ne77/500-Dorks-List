@@ -48,4 +48,6 @@ PRs welcome for new dorks, structured datasets, categorization improvements, or 
 
 ## Disclaimer
 
-For research and educational environments.
+Dork Collection Disclaimer
+
+This repository is for research, learning, and offensive security testing within authorized environments. Everything included here is intended for analysts, pentesters, and security researchers who know what they’re doing. Actions, tests, and results are the full responsibility of whoever uses this data. The maintainer of this repository is not responsible for damage, loss, misconfiguration, leaks, or any outcome caused by usage of the content. Use it with awareness, in controlled scenarios, and only where testing makes sense.
