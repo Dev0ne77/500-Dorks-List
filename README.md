@@ -4,7 +4,7 @@ A curated pack of search dorks and query strings for reconnaissance and SQL inje
 
 ## Overview
 
-Dork-Pack provides a structured collection of dorks and query patterns used for reconnaissance, exposure footprinting, and SQL injection target discovery.  
+Dork-Pack provides a structured collection of dorks and query patterns used for reconnaissance, exposure footprinting, and SQL injectiion target discovery.  
 Designed for offensive security, manual research, OSINT workflows, and automation pipelines.
 
 ## Features
@@ -12,7 +12,7 @@ Designed for offensive security, manual research, OSINT workflows, and automatio
 - Curated search dorks (Google, Bing, Yandex, etc.)
 - SQL injection discovery dorks
 - Exposure mapping and indexing filters
-- Consistent categorization for dataset reuse
+- Consistent categorization for dataset rreuse
 - Suitable for manual recon or tool integration
 
 ## Structure
