@@ -1,0 +1,509 @@
+# 100 SQLi Dorks
+1. inurl:php?id=
+2. inurl:index.php?id=
+3. inurl:news.php?id=
+4. inurl:item.php?id=
+5. inurl:book.php?id=
+6. inurl:profile.php?id=
+7. inurl:product.php?id=
+8. inurl:prod.php?id=
+9. inurl:products.php?id=
+10. inurl:catalog.php?id=
+11. inurl:event.php?id=
+12. inurl:detail.php?id=
+13. inurl:details.php?id=
+14. inurl:article.php?id=
+15. inurl:articles.php?id=
+16. inurl:show.php?id=
+17. inurl:view.php?id=
+18. inurl:browse.php?id=
+19. inurl:page.php?id=
+20. inurl:default.php?id=
+21. inurl:content.php?id=
+22. inurl:store.php?id=
+23. inurl:cart.php?id=
+24. inurl:load.php?id=
+25. inurl:display.php?id=
+26. inurl:home.php?id=
+27. inurl:gallery.php?id=
+28. inurl:service.php?id=
+29. inurl:services.php?id=
+30. inurl:section.php?id=
+31. inurl:cat.php?id=
+32. inurl:category.php?id=
+33. inurl:catid=
+34. inurl:pid=
+35. inurl:itemid=
+36. inurl:uid=
+37. inurl:cid=
+38. inurl:newsid=
+39. inurl:prodid=
+40. inurl:articleid=
+41. inurl:topicid=
+42. inurl:module= inurl:id=
+43. inurl:eventid=
+44. inurl:shop.php?id=
+45. inurl:memberid=
+46. inurl:forum.php?id=
+47. inurl:post.php?id=
+48. inurl:download.php?id=
+49. inurl:nth.php?id=
+50. inurl:report.php?id=
+51. inurl:board.php?id=
+52. inurl:thread.php?id=
+53. inurl:class.php?id=
+54. inurl:user.php?id=
+55. inurl:users.php?id=
+56. inurl:profile.php?id=
+57. inurl:profiles.php?id=
+58. inurl:playlist.php?id=
+59. inurl:music.php?id=
+60. inurl:song.php?id=
+61. inurl:video.php?id=
+62. inurl:movie.php?id=
+63. inurl:blog.php?id=
+64. inurl:blogs.php?id=
+65. inurl:category.php?cid=
+66. inurl:gallery.php?album=
+67. inurl:page.php?cid=
+68. inurl:index.php?page=
+69. inurl:index.php?pagina=
+70. inurl:index.php?module=
+71. inurl:view.php?page=
+72. inurl:home.php?page=
+73. inurl:content.php?page=
+74. inurl:product.php?pid=
+75. inurl:prod.php?pid=
+76. inurl:item.php?pid=
+77. inurl:store.php?item=
+78. inurl:catalog.php?prod=
+79. inurl:news.php?story=
+80. inurl:detail.php?prod=
+81. inurl:product.php?cid=
+82. inurl:catalog.php?cid=
+83. inurl:news.php?cat=
+84. inurl:article.php?cat=
+85. inurl:articles.php?cat=
+86. inurl:index.php?cat=
+87. inurl:index.php?cid=
+88. inurl:index.php?id=
+89. inurl:display.php?pid=
+90. inurl:load.php?pid=
+91. inurl:details.php?pid=
+92. inurl:view.php?pid=
+93. inurl:show.php?cid=
+94. inurl:page.php?product=
+95. inurl:product_detail.php?id=
+96. inurl:product_info.php?id=
+97. inurl:event_detail.php?id=
+98. inurl:event_info.php?id=
+99. inurl:news_detail.php?id=
+100. inurl:news_view.php?id=
+
+# 100 Exposure Dorks
+1. intitle:"Index of /config"
+2. intitle:"Index of /configs"
+3. intitle:"Index of /backup"
+4. intitle:"Index of /backups"
+5. intitle:"Index of /credentials"
+6. intitle:"Index of /users"
+7. intitle:"Index of /accounts"
+8. intitle:"Index of /mail"
+9. intitle:"Index of /smtp"
+10. intitle:"Index of /ftp"
+11. intitle:"Index of /ssh"
+12. intitle:"Index of /mysql"
+13. intitle:"Index of /db"
+14. intitle:"Index of /database"
+15. intitle:"Index of /webadmin"
+16. intitle:"Index of /admin"
+17. intitle:"Index of /panel"
+18. intitle:"Index of /phpmyadmin"
+19. intitle:"Index of /phpMyAdmin"
+20. intitle:"Index of /docker"
+21. intitle:"Index of /secrets"
+22. intitle:"Index of /private"
+23. intitle:"Index of /internal"
+24. intitle:"Index of /debug"
+25. intitle:"Index of /test"
+26. intitle:"Index of /staging"
+27. intitle:"Index of /deploy"
+28. filetype:env ".env"
+29. filetype:env "DB_PASSWORD"
+30. filetype:env "DB_USER"
+31. filetype:env "MAIL_HOST"
+32. filetype:env "MAIL_PASSWORD"
+33. filetype:env "MAIL_USERNAME"
+34. filetype:env "SMTP_PASSWORD"
+35. filetype:env "AWS_SECRET_ACCESS_KEY"
+36. filetype:xml "db_password"
+37. filetype:xml "db_user"
+38. filetype:xml "mysql"
+39. filetype:xml "backup"
+40. filetype:xml "credentials"
+41. filetype:ini "password"
+42. filetype:ini "db"
+43. filetype:ini "smtp"
+44. filetype:ini "ftp"
+45. filetype:ini "mysql"
+46. filetype:ini "sql"
+47. filetype:ini "secret"
+48. filetype:ini "token"
+49. filetype:json "password"
+50. filetype:json "jwt"
+51. filetype:json "apiKey"
+52. filetype:json "auth"
+53. filetype:json "secret"
+54. filetype:cfg "password"
+55. filetype:cfg "secret"
+56. filetype:cfg "key"
+57. filetype:cfg "config"
+58. filetype:log "password"
+59. filetype:log "credentials"
+60. filetype:log "authtoken"
+61. filetype:log "smtp"
+62. filetype:log "mysql"
+63. "password" ext:txt
+64. "password" ext:log
+65. "password" ext:ini
+66. "password" ext:cfg
+67. "jwt" ext:json
+68. "apiKey" ext:json
+69. "smtp" ext:ini
+70. "aws_secret" ext:env
+71. "s3" ext:env
+72. intext:"DB_PASSWORD="
+73. intext:"DB_USER="
+74. intext:"DB_HOST="
+75. intext:"DB_PORT="
+76. intext:"AWS_SECRET_ACCESS_KEY="
+77. intext:"AWS_ACCESS_KEY_ID="
+78. intext:"MYSQL_PASSWORD="
+79. intext:"MYSQL_USER="
+80. intext:"MYSQL_HOST="
+81. intext:"MAIL_PASSWORD="
+82. intext:"SMTP_PASSWORD="
+83. intext:"SMTP_USER="
+84. intext:"MAIL_HOST="
+85. intext:"REDIS_HOST="
+86. intext:"REDIS_PASSWORD="
+87. intext:"ELASTIC_PASSWORD="
+88. "phpinfo()" intitle:"phpinfo()"
+89. "phpinfo()" "PHP Version"
+90. "DEBUG=True" ext:py
+91. inurl:git/config
+92. inurl:.git
+93. inurl:.svn
+94. inurl:.hg
+95. inurl:.bzr
+96. inurl:.DS_Store
+97. inurl:composer.lock
+98. inurl:composer.json
+99. inurl:package.json
+100. inurl:yarn.lock
+
+# 100 Admin Panel Dorks
+1. intitle:"admin login"
+2. intitle:"administrator login"
+3. intitle:"admin panel"
+4. intitle:"admin console"
+5. intitle:"admin dashboard"
+6. intitle:"control panel login"
+7. intitle:"cpanel login"
+8. intitle:"phpmyadmin" "login"
+9. intitle:"phpmyadmin" inurl:login
+10. intitle:"webmin" inurl:login
+11. intitle:"webadmin" inurl:login
+12. intitle:"plesk" "login"
+13. intitle:"directadmin" "login"
+14. intitle:"login" "root" "admin"
+15. inurl:admin/login
+16. inurl:administrator/login
+17. inurl:adminpanel/login
+18. inurl:adminpanel.php
+19. inurl:adminpanel.asp
+20. inurl:adminpanel.aspx
+21. inurl:admin_console
+22. inurl:adminConsole
+23. inurl:console/login
+24. inurl:console/index
+25. inurl:dashboard/login
+26. inurl:dashboard/admin
+27. inurl:dashboard.php
+28. inurl:dashboard.asp
+29. inurl:dashboard.aspx
+30. inurl:manage/login
+31. inurl:management/login
+32. inurl:manager/login
+33. inurl:manage/admin
+34. inurl:admin_area
+35. inurl:adminarea
+36. inurl:adminarea/login
+37. inurl:secure/login
+38. inurl:secureadmin
+39. inurl:secure/admin
+40. inurl:secure/console
+41. inurl:panel/login
+42. inurl:panel/admin
+43. inurl:cp/login
+44. inurl:cp/admin
+45. inurl:system/login
+46. inurl:system_admin
+47. inurl:sysadmin/login
+48. inurl:sys-admin/login
+49. inurl:login.cgi "admin"
+50. inurl:login.pl "admin"
+51. inurl:login.php "admin"
+52. inurl:login.aspx "admin"
+53. inurl:login.asp "admin"
+54. inurl:cms/login
+55. inurl:portal/login
+56. inurl:manage.php
+57. inurl:managment/admin
+58. inurl:staff/login
+59. inurl:staff/admin
+60. inurl:internal/login
+61. inurl:internal/admin
+62. inurl:internal_dashboard
+63. inurl:internal_console
+64. inurl:admincp
+65. inurl:admincp/login
+66. inurl:webadmin/login
+67. inurl:webadmin/admin
+68. inurl:web-console
+69. inurl:web-console/login
+70. inurl:web-console/admin
+71. inurl:login "admin panel"
+72. inurl:signin "admin"
+73. inurl:signin/admin
+74. inurl:signin.php "admin"
+75. inurl:signin.aspx "admin"
+76. inurl:auth/login "admin"
+77. inurl:auth.php "admin"
+78. inurl:auth.aspx "admin"
+79. inurl:authentication/login
+80. inurl:admin_auth
+81. inurl:superadmin/login
+82. inurl:root/login
+83. inurl:root/admin
+84. inurl:superuser/login
+85. inurl:superuser/admin
+86. "admin" "login" "cpanel"
+87. "admin" "login" "panel"
+88. "admin" "login" "console"
+89. "admin" "login" "dashboard"
+90. "administrator" "login" "panel"
+91. "administrator" "signin" "panel"
+92. "control panel" "login"
+93. "cms admin" "login"
+94. "portal admin" "login"
+95. "secure portal" "login"
+96. "secure admin" "login"
+97. "privileged login" "admin"
+98. "restricted" "admin" "login"
+99. "restricted portal" "login"
+100. "access denied" "admin login"
+
+# 100 Directory Listing Dorks
+1. intitle:"Index of /backup"
+2. intitle:"Index of /backups"
+3. intitle:"Index of /db"
+4. intitle:"Index of /database"
+5. intitle:"Index of /sqldump"
+6. intitle:"Index of /dumps"
+7. intitle:"Index of /dump"
+8. intitle:"Index of /logs"
+9. intitle:"Index of /log"
+10. intitle:"Index of /debug"
+11. intitle:"Index of /debug/logs"
+12. intitle:"Index of /reports"
+13. intitle:"Index of /reports/errors"
+14. intitle:"Index of /error"
+15. intitle:"Index of /errors"
+16. intitle:"Index of /crash"
+17. intitle:"Index of /credentials"
+18. intitle:"Index of /Secrets"
+19. intitle:"Index of /secret"
+20. intitle:"Index of /secrets"
+21. intitle:"Index of /config"
+22. intitle:"Index of /configs"
+23. intitle:"Index of /configuration"
+24. intitle:"Index of /private"
+25. intitle:"Index of /internal"
+26. intitle:"Index of /secure"
+27. intitle:"Index of /users"
+28. intitle:"Index of /accounts"
+29. intitle:"Index of /mail"
+30. intitle:"Index of /smtp"
+31. intitle:"Index of /ftp"
+32. intitle:"Index of /ssh"
+33. intitle:"Index of /ssl"
+34. intitle:"Index of /certs"
+35. intitle:"Index of /certificates"
+36. intitle:"Index of /keys"
+37. intitle:"Index of /payments"
+38. intitle:"Index of /billing"
+39. intitle:"Index of /api"
+40. intitle:"Index of /token"
+41. intitle:"Index of /jwt"
+42. intitle:"Index of /auth"
+43. intitle:"Index of /auth/logs"
+44. intitle:"Index of /oauth"
+45. intitle:"Index of /admin"
+46. intitle:"Index of /panel"
+47. intitle:"Index of /control"
+48. intitle:"Index of /cp"
+49. intitle:"Index of /staging"
+50. intitle:"Index of /dev"
+51. intitle:"Index of /development"
+52. intitle:"Index of /testing"
+53. intitle:"Index of /test"
+54. intitle:"Index of /qa"
+55. intitle:"Index of /preprod"
+56. intitle:"Index of /prod"
+57. intitle:"Index of /production"
+58. intitle:"Index of /docker"
+59. intitle:"Index of /containers"
+60. intitle:"Index of /compose"
+61. intitle:"Index of /k8s"
+62. intitle:"Index of /helm"
+63. intitle:"Index of /ansible"
+64. intitle:"Index of /terraform"
+65. intitle:"Index of /vault"
+66. intitle:"Index of /aws"
+67. intitle:"Index of /gcp"
+68. intitle:"Index of /azure"
+69. intitle:"Index of /s3"
+70. intitle:"Index of /buckets"
+71. intitle:"Index of /artifacts"
+72. intitle:"Index of /packages"
+73. intitle:"Index of /modules"
+74. intitle:"Index of /lib"
+75. intitle:"Index of /libs"
+76. intitle:"Index of /node_modules"
+77. intitle:"Index of /vendor"
+78. intitle:"Index of /composer"
+79. intitle:"Index of /packages"
+80. intitle:"Index of /build"
+81. intitle:"Index of /release"
+82. intitle:"Index of /releases"
+83. intitle:"Index of /updates"
+84. intitle:"Index of /patches"
+85. intitle:"Index of /bin"
+86. intitle:"Index of /sbin"
+87. intitle:"Index of /etc"
+88. intitle:"Index of /opt"
+89. intitle:"Index of /root"
+90. intitle:"Index of /home"
+91. intitle:"Index of /wp-content"
+92. intitle:"Index of /wp-includes"
+93. intitle:"Index of /wp-admin"
+94. intitle:"Index of /joomla"
+95. intitle:"Index of /drupal"
+96. intitle:"Index of /magento"
+97. intitle:"Index of /crm"
+98. intitle:"Index of /erp"
+99. intitle:"Index of /source"
+100. intitle:"Index of /src"
+
+# 100 LFI/RFI/RCE/ETC Dorks
+1. inurl:"index.php?page="
+2. inurl:"index.php?file="
+3. inurl:"index.php?path="
+4. inurl:"index.php?doc="
+5. inurl:"index.php?module="
+6. inurl:"index.php?view="
+7. inurl:"index.php?inc="
+8. inurl:"index.php?include="
+9. inurl:"index.php?load="
+10. inurl:"page.php?file="
+11. inurl:"page.php?path="
+12. inurl:"page.php?module="
+13. inurl:"page.php?inc="
+14. inurl:"page.php?include="
+15. inurl:"load.php?file="
+16. inurl:"load.php?path="
+17. inurl:"load.php?view="
+18. inurl:"load.php?include="
+19. inurl:"load.php?tpl="
+20. inurl:"template.php?file="
+21. inurl:"template.php?tpl="
+22. inurl:"admin.php?view="
+23. inurl:"admin.php?file="
+24. inurl:"admin.php?module="
+25. inurl:"home.php?page="
+26. inurl:"home.php?file="
+27. inurl:"include.php?file="
+28. inurl:"include.php?page="
+29. inurl:"view.php?template="
+30. inurl:"view.php?file="
+31. inurl:"view.php?module="
+32. inurl:"module.php?file="
+33. inurl:"module.php?module="
+34. inurl:"show.php?file="
+35. inurl:"show.php?page="
+36. inurl:"content.php?page="
+37. inurl:"content.php?view="
+38. inurl:"content.php?file="
+39. inurl:"render.php?view="
+40. inurl:"render.php?file="
+41. inurl:"render.php?tpl="
+42. inurl:"component.php?view="
+43. inurl:"component.php?page="
+44. inurl:"component.php?file="
+45. inurl:"component.php?include="
+46. inurl:"main.php?file="
+47. inurl:"main.php?view="
+48. inurl:"main.php?module="
+49. inurl:"product.php?template="
+50. inurl:"product.php?module="
+51. inurl:"router.php?file="
+52. inurl:"router.php?page="
+53. inurl:"router.php?module="
+54. inurl:"action.php?file="
+55. inurl:"action.php?cmd="
+56. inurl:"exec.php?cmd="
+57. inurl:"execute.php?cmd="
+58. inurl:"shell.php?cmd="
+59. inurl:"run.php?cmd="
+60. inurl:"system.php?cmd="
+61. inurl:"system.php?exec="
+62. inurl:"app.php?cmd="
+63. inurl:"do.php?cmd="
+64. inurl:"cmd.php?cmd="
+65. inurl:"cmd.php?exec="
+66. inurl:"upload.php?path="
+67. inurl:"download.php?file="
+68. inurl:"download.php?path="
+69. inurl:"download.php?doc="
+70. inurl:"fetch.php?file="
+71. inurl:"fetch.php?path="
+72. inurl:"open.php?file="
+73. inurl:"open.php?path="
+74. inurl:"open.php?doc="
+75. inurl:"open.php?page="
+76. inurl:"proxy.php?url="
+77. inurl:"proxy.php?target="
+78. inurl:"proxy.php?host="
+79. inurl:"proxy.php?redirect="
+80. inurl:"redirect.php?url="
+81. inurl:"redirect.php?target="
+82. inurl:"login.php?redirect="
+83. inurl:"auth.php?redirect="
+84. inurl:"template=" "php://"
+85. inurl:"file=" "php://"
+86. inurl:"path=" "php://"
+87. inurl:"inc=" "php://"
+88. inurl:"load=" "php://"
+89. inurl:"tpl=" "php://"
+90. inurl:"eval(" ext:php
+91. inurl:"assert(" ext:php
+92. inurl:"include(" ext:php
+93. inurl:"require(" ext:php
+94. inurl:"require_once(" ext:php
+95. inurl:"preg_replace(" ext:php
+96. inurl:"system(" ext:php
+97. inurl:"passthru(" ext:php
+98. inurl:"shell_exec(" ext:php
+99. inurl:"exec(" ext:php
+100. intitle:"Index of" "nginx.conf"
