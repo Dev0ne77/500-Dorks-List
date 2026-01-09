@@ -15,14 +15,7 @@ Designed for offensive security, manual research, OSINT workflows, and automatio
 - Consistent categorization for dataset rreuse
 - Suitable for manual recon or tool integration
 
-## Structure
 
-
-> `dorks/` → general-purpose dorks  
-> `dorks-sqli/` → SQL injection‑focused dorks  
-> `dorks-exposure/` → indexing/leak/fingerprint dorks  
-> `docs/` → notes, research, methodology  
-> `scripts/` → optional automation helpers
 
 ## Usage
 
